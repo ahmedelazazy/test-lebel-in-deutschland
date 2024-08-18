@@ -1,0 +1,3213 @@
+[{
+    "id": 1,
+    "question": "1",
+    "choices": [
+      "In Deutschland d\u00fcrfen Menschen offen etwas gegen die Regierung sagen, weil \u2026",
+      "hier Religionsfreiheit gilt.",
+      "die Menschen Steuern zahlen.",
+      "die Menschen das Wahlrecht haben."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "2",
+    "choices": [
+      "In Deutschland k\u00f6nnen Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der",
+      "Schule am \u2026",
+      "Geschichtsunterricht teilnimmt.",
+      "Religionsunterricht teilnimmt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "3",
+    "choices": [
+      "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "Alle Einwohnerinnen/Einwohner und der Staat m\u00fcssen sich an die Gesetze",
+      "halten.",
+      "Der Staat muss sich nicht an die Gesetze halten."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "4",
+    "choices": [
+      "Welches Recht geh\u00f6rt zu den Grundrechten in Deutschland?",
+      "Waffenbesitz",
+      "Faustrecht",
+      "Meinungsfreiheit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "5",
+    "choices": [
+      "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "Man darf Geld annehmen, wenn man daf\u00fcr eine bestimmte Kandidatin/einen",
+      "bestimmten Kandidaten w\u00e4hlt.",
+      "Nur Personen, die noch nie im Gef\u00e4ngnis waren, d\u00fcrfen w\u00e4hlen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "6",
+    "choices": [
+      "Wie hei\u00dft die deutsche Verfassung?",
+      "Volksgesetz",
+      "Bundesgesetz",
+      "Deutsches Gesetz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "7",
+    "choices": [
+      "Welches Recht geh\u00f6rt zu den Grundrechten, die nach der deutschen Verfassung garantiert",
+      "werden? Das Recht auf \u2026",
+      "Glaubens- und Gewissensfreiheit",
+      "Unterhaltung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "question": "8",
+    "choices": [
+      "Was steht nicht im Grundgesetz von Deutschland?",
+      "Die W\u00fcrde des Menschen ist unantastbar.",
+      "Alle sollen gleich viel Geld haben.",
+      "Jeder Mensch darf seine Meinung sagen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "9",
+    "choices": [
+      "Welches Grundrecht gilt in Deutschland nur f\u00fcr Ausl\u00e4nderinnen/Ausl\u00e4nder? Das Grundrecht",
+      "auf \u2026",
+      "Schutz der Familie",
+      "Menschenw\u00fcrde"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "10",
+    "choices": [
+      "Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "die Pr\u00fcgelstrafe",
+      "die Folter",
+      "die Todesstrafe"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "11",
+    "choices": [
+      "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+      "Grundgesetz",
+      "Bundesverfassung",
+      "Gesetzbuch"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "question": "12",
+    "choices": [
+      "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das m\u00f6glich?",
+      "Ja, wenn mehr als die H\u00e4lfte der Abgeordneten im Bundestag daf\u00fcr sind.",
+      "Ja, aber dazu m\u00fcssen zwei Drittel der Abgeordneten im Bundestag daf\u00fcr sein.",
+      "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "13",
+    "choices": [
+      "Im Parlament steht der Begriff \"Opposition\" f\u00fcr \u2026",
+      "die regierenden Parteien.",
+      "die Fraktion mit den meisten Abgeordneten.",
+      "alle Parteien, die bei der letzten Wahl die 5%-H\u00fcrde erreichen konnten."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "14",
+    "choices": [
+      "Meinungsfreiheit in Deutschland hei\u00dft zum Beispiel, dass ich \u2026",
+      "Passanten auf der Stra\u00dfe beschimpfen darf.",
+      "meine Meinung im Internet \u00e4u\u00dfern kann.",
+      "Nazi-, Hamas- oder Islamischer Staat-Symbole \u00f6ffentlich tragen darf."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "15",
+    "choices": [
+      "Was verbietet das deutsche Grundgesetz?",
+      "Milit\u00e4rdienst",
+      "Zwangsarbeit",
+      "freie Berufswahl"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "16",
+    "choices": [
+      "Wann ist die Meinungsfreiheit in Deutschland eingeschr\u00e4nkt?",
+      "bei der \u00f6ffentlichen Verbreitung falscher Behauptungen \u00fcber einzelne",
+      "Personen",
+      "bei Meinungs\u00e4u\u00dferungen \u00fcber die Bundesregierung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "17",
+    "choices": [
+      "Die deutschen Gesetze verbieten \u2026",
+      "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+      "Petitionen der B\u00fcrgerinnen und B\u00fcrger.",
+      "Versammlungsfreiheit der Einwohnerinnen und Einwohner."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "18",
+    "choices": [
+      "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland",
+      "garantiert?",
+      "die Unantastbarkeit der Menschenw\u00fcrde",
+      "das Recht auf Leben"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "19",
+    "choices": [
+      "Was versteht man unter dem Recht der \"Freiz\u00fcgigkeit\" in Deutschland?",
+      "Man darf sich seinen Wohnort selbst aussuchen.",
+      "Man kann seinen Beruf wechseln.",
+      "Man darf sich f\u00fcr eine andere Religion entscheiden."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "20",
+    "choices": [
+      "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann \u2026",
+      "tolerant.",
+      "rechtsstaatlich orientiert.",
+      "gesetzestreu."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "question": "21",
+    "choices": [
+      "Welches ist das Wappen der Bundesrepublik Deutschland?",
+      "Bild 1 Bild 2 Bild 3 Bild 4",
+      "Bild 1",
+      "Bild 2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "22",
+    "choices": [
+      "Was f\u00fcr eine Staatsform hat Deutschland?",
+      "Monarchie",
+      "Diktatur",
+      "Republik"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "question": "23",
+    "choices": [
+      "In Deutschland sind die meisten Erwerbst\u00e4tigen \u2026",
+      "in kleinen Familienunternehmen besch\u00e4ftigt.",
+      "ehrenamtlich f\u00fcr ein Bundesland t\u00e4tig.",
+      "selbstst\u00e4ndig mit einer eigenen Firma t\u00e4tig."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "question": "24",
+    "choices": [
+      "Wie viele Bundesl\u00e4nder hat die Bundesrepublik Deutschland?",
+      "14",
+      "15",
+      "16"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "25",
+    "choices": [
+      "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+      "Elsass-Lothringen",
+      "Nordrhein-Westfalen",
+      "Mecklenburg-Vorpommern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "question": "26",
+    "choices": [
+      "Deutschland ist \u2026",
+      "eine kommunistische Republik.",
+      "ein demokratischer und sozialer Bundesstaat.",
+      "eine kapitalistische und soziale Monarchie."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "27",
+    "choices": [
+      "Deutschland ist \u2026",
+      "ein sozialistischer Staat.",
+      "ein Bundesstaat.",
+      "eine Diktatur."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "28",
+    "choices": [
+      "Wer w\u00e4hlt in Deutschland die Abgeordneten zum Bundestag?",
+      "das Milit\u00e4r",
+      "die Wirtschaft",
+      "das wahlberechtigte Volk"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "29",
+    "choices": [
+      "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "L\u00f6we",
+      "Adler",
+      "B\u00e4r"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "30",
+    "choices": [
+      "Was ist kein Merkmal unserer Demokratie?",
+      "regelm\u00e4\u00dfige Wahlen",
+      "Pressezensur",
+      "Meinungsfreiheit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "31",
+    "choices": [
+      "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland \u2026",
+      "Einheit.",
+      "Koalition.",
+      "Ministerium."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "32",
+    "choices": [
+      "Was ist keine staatliche Gewalt in Deutschland?",
+      "Gesetzgebung",
+      "Regierung",
+      "Presse"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "33",
+    "choices": [
+      "Welche Aussage ist richtig? In Deutschland \u2026",
+      "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+      "bilden die Religionsgemeinschaften den Staat.",
+      "ist der Staat abh\u00e4ngig von den Religionsgemeinschaften."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "34",
+    "choices": [
+      "Was ist Deutschland nicht?",
+      "eine Demokratie",
+      "ein Rechtsstaat",
+      "eine Monarchie"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "question": "35",
+    "choices": [
+      "Womit finanziert der deutsche Staat die Sozialversicherung?",
+      "Kirchensteuer",
+      "Sozialabgaben",
+      "Spendengeldern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "36",
+    "choices": [
+      "Welche Ma\u00dfnahme schafft in Deutschland soziale Sicherheit?",
+      "die Krankenversicherung",
+      "die Autoversicherung",
+      "die Geb\u00e4udeversicherung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "question": "37",
+    "choices": [
+      "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesl\u00e4nder in",
+      "Deutschland genannt?",
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "38",
+    "choices": [
+      "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer \u2026",
+      "Staatenverbund.",
+      "Bundesstaat.",
+      "Staatenbund."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "39",
+    "choices": [
+      "Was hat jedes deutsche Bundesland?",
+      "eine eigene Au\u00dfenministerin/einen eigenen Au\u00dfenminister",
+      "eine eigene W\u00e4hrung",
+      "eine eigene Armee"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "question": "40",
+    "choices": [
+      "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "V\u00f6lker, h\u00f6rt die Signale \u2026",
+      "Einigkeit und Recht und Freiheit \u2026",
+      "Freude sch\u00f6ner G\u00f6tterfunken \u2026"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "41",
+    "choices": [
+      "Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "weil dadurch die unterschiedlichen Meinungen der B\u00fcrgerinnen und B\u00fcrger",
+      "vertreten werden",
+      "damit Bestechung in der Politik begrenzt wird"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "42",
+    "choices": [
+      "Wer beschlie\u00dft in Deutschland ein neues Gesetz?",
+      "die Regierung",
+      "das Parlament",
+      "die Gerichte"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "question": "43",
+    "choices": [
+      "Wann kann in Deutschland eine Partei verboten werden?",
+      "wenn ihr Wahlkampf zu teuer ist",
+      "wenn sie gegen die Verfassung k\u00e4mpft",
+      "wenn sie Kritik am Staatsoberhaupt \u00e4u\u00dfert"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "44",
+    "choices": [
+      "Wen kann man als B\u00fcrgerin/B\u00fcrger in Deutschland nicht direkt w\u00e4hlen?",
+      "Abgeordnete des EU-Parlaments",
+      "Die Bundespr\u00e4sidentin/den Bundespr\u00e4sidenten",
+      "Landtagsabgeordnete"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "45",
+    "choices": [
+      "Zu welcher Versicherung geh\u00f6rt die Pflegeversicherung?",
+      "Sozialversicherung",
+      "Unfallversicherung",
+      "Hausratsversicherung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "question": "48",
+    "choices": [
+      "Welches Organ geh\u00f6rt nicht zu den Verfassungsorganen Deutschlands?",
+      "der Bundesrat",
+      "die Bundespr\u00e4sidentin/der Bundespr\u00e4sident",
+      "die B\u00fcrgerversammlung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "49",
+    "choices": [
+      "Wer bestimmt in Deutschland die Schulpolitik?",
+      "die Lehrer und Lehrerinnen",
+      "die Bundesl\u00e4nder",
+      "das Familienministerium"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "50",
+    "choices": [
+      "Die Wirtschaftsform in Deutschland nennt man \u2026",
+      "freie Zentralwirtschaft.",
+      "soziale Marktwirtschaft.",
+      "gelenkte Zentralwirtschaft."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "question": "51",
+    "choices": [
+      "Zu einem demokratischen Rechtsstaat geh\u00f6rt es nicht, dass \u2026",
+      "Menschen sich kritisch \u00fcber die Regierung \u00e4u\u00dfern k\u00f6nnen.",
+      "B\u00fcrger friedlich demonstrieren gehen d\u00fcrfen.",
+      "Menschen von einer Privatpolizei ohne Grund verhaftet werden."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "question": "52",
+    "choices": [
+      "Was bedeutet \"Volkssouver\u00e4nit\u00e4t\"? Alle Staatsgewalt geht vom ...",
+      "Volke aus.",
+      "Bundestag aus.",
+      "preu\u00dfischen K\u00f6nig aus."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "question": "53",
+    "choices": [
+      "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+      "Der Staat hat Recht.",
+      "Es gibt nur rechte Parteien.",
+      "Die B\u00fcrgerinnen und B\u00fcrger entscheiden \u00fcber Gesetze."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "54",
+    "choices": [
+      "Was ist keine staatliche Gewalt in Deutschland?",
+      "Legislative",
+      "Judikative",
+      "Exekutive"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "55",
+    "choices": [
+      "Was zeigt dieses Bild?",
+      "\u00a9 Deutscher Bundestag/Achim Melde",
+      "den Bundestagssitz in Berlin",
+      "das Bundesverfassungsgericht in Karlsruhe"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "question": "56",
+    "choices": [
+      "Welches Amt geh\u00f6rt in Deutschland zur Gemeindeverwaltung?",
+      "Pfarramt",
+      "Ordnungsamt",
+      "Finanzamt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "57",
+    "choices": [
+      "Wer wird meistens zur Pr\u00e4sidentin/zum Pr\u00e4sidenten des Deutschen Bundestages gew\u00e4hlt?",
+      "die/der \u00e4lteste Abgeordnete im Parlament",
+      "die Ministerpr\u00e4sidentin/der Ministerpr\u00e4sident des gr\u00f6\u00dften Bundeslandes",
+      "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "question": "58",
+    "choices": [
+      "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+      "die Pr\u00e4sidentin/der Pr\u00e4sident des Bundesverfassungsgerichtes",
+      "die Bundespr\u00e4sidentin/der Bundespr\u00e4sident",
+      "die Bundesratspr\u00e4sidentin/der Bundesratspr\u00e4sident"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "59",
+    "choices": [
+      "Vor wie vielen Jahren gab es erstmals eine j\u00fcdische Gemeinde auf dem Gebiet des heutigen",
+      "Deutschlands?",
+      "vor etwa 300 Jahren",
+      "vor etwa 700 Jahren"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "60",
+    "choices": [
+      "In Deutschland geh\u00f6ren der Bundestag und der Bundesrat zur \u2026",
+      "Exekutive.",
+      "Legislative.",
+      "Direktive."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "61",
+    "choices": [
+      "Was bedeutet \"Volkssouver\u00e4nit\u00e4t\"?",
+      "Die K\u00f6nigin/der K\u00f6nig herrscht \u00fcber das Volk.",
+      "Das Bundesverfassungsgericht steht \u00fcber der Verfassung.",
+      "Die Interessenverb\u00e4nde \u00fcben die Souver\u00e4nit\u00e4t zusammen mit der Regierung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "62",
+    "choices": [
+      "Wenn das Parlament eines deutschen Bundeslandes gew\u00e4hlt wird, nennt man das \u2026",
+      "Kommunalwahl",
+      "Landtagswahl",
+      "Europawahl"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "question": "63",
+    "choices": [
+      "Was geh\u00f6rt in Deutschland nicht zur Exekutive?",
+      "die Polizei",
+      "die Gerichte",
+      "das Finanzamt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "64",
+    "choices": [
+      "Die Bundesrepublik Deutschland ist heute gegliedert in \u2026",
+      "vier Besatzungszonen.",
+      "einen Oststaat und einen Weststaat.",
+      "16 Kantone."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "66",
+    "choices": [
+      "Welche St\u00e4dte haben die gr\u00f6\u00dften j\u00fcdischen Gemeinden in Deutschland?",
+      "Berlin und M\u00fcnchen",
+      "Hamburg und Essen",
+      "N\u00fcrnberg und Stuttgart"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "68",
+    "choices": [
+      "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+      "weil es in Deutschland nur staatliche Schulen gibt",
+      "weil alle Sch\u00fclerinnen und Sch\u00fcler einen Schulabschluss haben m\u00fcssen",
+      "weil es in den Bundesl\u00e4ndern verschiedene Schulen gibt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "69",
+    "choices": [
+      "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie hei\u00dft die",
+      "unterste politische Stufe?",
+      "Stadtr\u00e4te",
+      "Landr\u00e4te"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "question": "n der",
+    "choices": [
+      "deutschen Bundespr\u00e4sidentin/des deutschen Bundespr\u00e4sidenten?",
+      "\u00a9 Bundesregierung/Engelbert Reineke",
+      "Sie/Er f\u00fchrt die Regierungsgesch\u00e4fte.",
+      "Sie/Er kontrolliert die Regierungspartei."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "71",
+    "choices": [
+      "Wo h\u00e4lt sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am h\u00e4ufigsten auf?",
+      "Am h\u00e4ufigsten ist sie/er \u2026",
+      "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+      "auf Schloss Meseberg, dem G\u00e4stehaus der Bundesregierung, um Staatsg\u00e4ste"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "72",
+    "choices": [
+      "Wie hei\u00dft der jetzige Bundeskanzler /die jetzige Bundeskanzlerin von Deutschland?",
+      "Gerhard Schr\u00f6der",
+      "Angela Merkel",
+      "Franziska Giffey"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "73",
+    "choices": [
+      "Die beiden gr\u00f6\u00dften Fraktionen im Deutschen Bundestag hei\u00dfen zurzeit \u2026",
+      "CDU/CSU und SPD.",
+      "Die Linke und B\u00fcndnis 90/Die Gr\u00fcnen.",
+      "FDP und SPD."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "74",
+    "choices": [
+      "Wie hei\u00dft das Parlament f\u00fcr ganz Deutschland?",
+      "Bundesversammlung",
+      "Volkskammer",
+      "Bundestag"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "75",
+    "choices": [
+      "Wie hei\u00dft Deutschlands heutiges Staatsoberhaupt?",
+      "Frank-Walter Steinmeier",
+      "B\u00e4rbel Bas",
+      "Bodo Ramelow"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "question": "76",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung CDU in Deutschland?",
+      "Christliche Deutsche Union",
+      "Club Deutscher Unternehmer",
+      "Christlicher Deutscher Umweltschutz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "77",
+    "choices": [
+      "Was ist die Bundeswehr?",
+      "die deutsche Polizei",
+      "ein deutscher Hafen",
+      "eine deutsche B\u00fcrgerinitiative"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "question": "78",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung SPD?",
+      "Sozialistische Partei Deutschlands",
+      "Sozialpolitische Partei Deutschlands",
+      "Sozialdemokratische Partei Deutschlands"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "question": "79",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung FDP in Deutschland?",
+      "Friedliche Demonstrative Partei",
+      "Freie Deutschland Partei",
+      "F\u00fchrende Demokratische Partei"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "80",
+    "choices": [
+      "Welches Gericht in Deutschland ist zust\u00e4ndig f\u00fcr die Auslegung des Grundgesetzes?",
+      "Oberlandesgericht",
+      "Amtsgericht",
+      "Bundesverfassungsgericht"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "question": "81",
+    "choices": [
+      "Wer w\u00e4hlt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+      "der Bundesrat",
+      "die Bundesversammlung",
+      "das Volk"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "question": "82",
+    "choices": [
+      "Wer leitet das deutsche Bundeskabinett?",
+      "die Bundestagspr\u00e4sidentin/der Bundestagspr\u00e4sident",
+      "die Bundespr\u00e4sidentin/der Bundespr\u00e4sident",
+      "die Bundesratspr\u00e4sidentin/der Bundesratspr\u00e4sident"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "question": "83",
+    "choices": [
+      "Wer w\u00e4hlt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+      "das Volk",
+      "die Bundesversammlung",
+      "der Bundestag"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "question": "84",
+    "choices": [
+      "Welche Hauptaufgabe hat die deutsche Bundespr\u00e4sidentin/der deutsche Bundespr\u00e4sident?",
+      "Sie/Er \u2026",
+      "regiert das Land.",
+      "entwirft die Gesetze."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "85",
+    "choices": [
+      "Wer bildet den deutschen Bundesrat?",
+      "die Abgeordneten des Bundestages",
+      "die Ministerinnen und Minister der Bundesregierung",
+      "die Regierungsvertreter der Bundesl\u00e4nder"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "question": "86",
+    "choices": [
+      "Wer w\u00e4hlt in Deutschland die Bundespr\u00e4sidentin/den Bundespr\u00e4sidenten?",
+      "die Bundesversammlung",
+      "der Bundesrat",
+      "das Bundesparlament"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "question": "87",
+    "choices": [
+      "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "die Bundeskanzlerin/der Bundeskanzler",
+      "die Bundespr\u00e4sidentin/der Bundespr\u00e4sident",
+      "die Bundesratspr\u00e4sidentin/der Bundesratspr\u00e4sident"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "question": "88",
+    "choices": [
+      "Die parlamentarische Opposition im Deutschen Bundestag \u2026",
+      "kontrolliert die Regierung.",
+      "entscheidet, wer Bundesministerin/Bundesminister wird.",
+      "bestimmt, wer im Bundesrat sitzt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "89",
+    "choices": [
+      "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im",
+      "Parlament?",
+      "Verband",
+      "\u00c4ltestenrat"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "90",
+    "choices": [
+      "Die deutschen Bundesl\u00e4nder wirken an der Gesetzgebung des Bundes mit durch \u2026",
+      "den Bundesrat.",
+      "die Bundesversammlung.",
+      "den Bundestag."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "91",
+    "choices": [
+      "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die",
+      "Bundespolitik haben. Das Regieren wird \u2026",
+      "schwieriger, wenn sich dadurch die Mehrheit im Bundestag \u00e4ndert.",
+      "leichter, wenn dadurch neue Parteien in den Bundesrat kommen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "92",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung CSU in Deutschland?",
+      "Christlich Sichere Union",
+      "Christlich S\u00fcddeutsche Union",
+      "Christlich Sozialer Unternehmerverband"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "question": "93",
+    "choices": [
+      "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto \u2026",
+      "weniger Erststimmen kann sie haben.",
+      "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+      "gr\u00f6\u00dfer ist das Risiko, eine Koalition bilden zu m\u00fcssen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "question": "94",
+    "choices": [
+      "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag",
+      "teilnehmen?",
+      "16",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "question": "95",
+    "choices": [
+      "Was gilt f\u00fcr die meisten Kinder in Deutschland?",
+      "Wahlpflicht",
+      "Schulpflicht",
+      "Schweigepflicht"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "question": "96",
+    "choices": [
+      "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "K\u00fcrzung sozialer Leistungen",
+      "bis zu 100 Sozialstunden",
+      "gar nicht, Holocaustleugnung ist erlaubt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "question": "97",
+    "choices": [
+      "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+      "Sozialversicherung",
+      "Sozialhilfe",
+      "Kindergeld"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "question": "98",
+    "choices": [
+      "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, \u2026",
+      "d\u00fcrfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+      "kann die Regierung ihre Mehrheit verlieren.",
+      "muss die Bundespr\u00e4sidentin/der Bundespr\u00e4sident zuvor ihr/sein"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "question": "99",
+    "choices": [
+      "Wer bezahlt in Deutschland die Sozialversicherungen?",
+      "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+      "nur Arbeitnehmerinnen/Arbeitnehmer",
+      "alle Staatsangeh\u00f6rigen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "question": "100",
+    "choices": [
+      "Was geh\u00f6rt nicht zur gesetzlichen Sozialversicherung?",
+      "die Lebensversicherung",
+      "die gesetzliche Rentenversicherung",
+      "die Arbeitslosenversicherung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "question": "101",
+    "choices": [
+      "Gewerkschaften sind Interessenverb\u00e4nde der \u2026",
+      "Jugendlichen.",
+      "Arbeitnehmerinnen und Arbeitnehmer.",
+      "Rentnerinnen und Rentner."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "question": "102",
+    "choices": [
+      "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf",
+      "politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere",
+      "Leistung erbracht hat? Mit dem \u2026",
+      "Bundesverdienstkreuz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "question": "103",
+    "choices": [
+      "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit \u2026",
+      "der Bundestagsfraktionen von CDU und CSU",
+      "von SPD, FDP und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
+      "von CSU, Die LINKE und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "question": "104",
+    "choices": [
+      "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund f\u00fcr diese Entlassung",
+      "sein?",
+      "Die Frau ist lange krank und arbeitsunf\u00e4hig.",
+      "Die Frau kam oft zu sp\u00e4t zur Arbeit."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "question": "107",
+    "choices": [
+      "F\u00fcr wie viele Jahre wird der Bundestag in Deutschland gew\u00e4hlt?",
+      "2 Jahre",
+      "4 Jahre",
+      "6 Jahre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "question": "108",
+    "choices": [
+      "Bei einer Bundestagswahl in Deutschland darf jede/jeder w\u00e4hlen, die/der \u2026",
+      "in der Bundesrepublik Deutschland wohnt und w\u00e4hlen m\u00f6chte.",
+      "B\u00fcrgerin/B\u00fcrger der Bundesrepublik Deutschland ist und mindestens 18 Jahre",
+      "alt ist."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "question": "109",
+    "choices": [
+      "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+      "alle drei Jahre",
+      "alle vier Jahre",
+      "alle f\u00fcnf Jahre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "question": "110",
+    "choices": [
+      "F\u00fcr wie viele Jahre wird der Bundestag in Deutschland gew\u00e4hlt?",
+      "2 Jahre",
+      "3 Jahre",
+      "4 Jahre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "question": "111",
+    "choices": [
+      "Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
+      "die Politik Israels \u00f6ffentlich kritisieren",
+      "das Aufh\u00e4ngen einer israelischen Flagge auf dem Privatgrundst\u00fcck",
+      "eine Diskussion \u00fcber die Politik Israels"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 122,
+    "question": "112",
+    "choices": [
+      "Die Wahlen in Deutschland sind \u2026",
+      "speziell.",
+      "geheim.",
+      "berufsbezogen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 123,
+    "question": "113",
+    "choices": [
+      "Wahlen in Deutschland gewinnt die Partei, die \u2026",
+      "die meisten Stimmen bekommt.",
+      "die meisten M\u00e4nner mehrheitlich gew\u00e4hlt haben.",
+      "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "question": "114",
+    "choices": [
+      "An demokratischen Wahlen in Deutschland teilzunehmen ist \u2026",
+      "eine Pflicht.",
+      "ein Recht.",
+      "ein Zwang."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 125,
+    "question": "115",
+    "choices": [
+      "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+      "Man kann gew\u00e4hlt werden.",
+      "Man muss w\u00e4hlen gehen.",
+      "Man kann w\u00e4hlen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "question": "116",
+    "choices": [
+      "Wenn Sie bei einer Bundestagswahl in Deutschland w\u00e4hlen d\u00fcrfen, hei\u00dft das \u2026",
+      "aktive Wahlkampagne.",
+      "aktives Wahlverfahren.",
+      "aktiver Wahlkampf."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 127,
+    "question": "117",
+    "choices": [
+      "Wie viel Prozent der Zweitstimmen m\u00fcssen Parteien mindestens bekommen, um in den",
+      "Deutschen Bundestag gew\u00e4hlt zu werden?",
+      "3%",
+      "4%"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "question": "118",
+    "choices": [
+      "Wer darf bei den rund 40 j\u00fcdischen Makkabi-Sportvereinen Mitglied werden?",
+      "nur Deutsche",
+      "nur Israelis",
+      "nur religi\u00f6se Menschen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "question": "119",
+    "choices": [
+      "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "Alle verurteilten Straft\u00e4terinnen/Straft\u00e4ter d\u00fcrfen nicht w\u00e4hlen.",
+      "Wenn ich w\u00e4hlen gehen m\u00f6chte, muss meine Arbeitgeberin/mein Arbeitgeber",
+      "mir frei geben."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 130,
+    "question": "120",
+    "choices": [
+      "Das Wahlsystem in Deutschland ist ein \u2026",
+      "Zensuswahlrecht.",
+      "Dreiklassenwahlrecht.",
+      "Mehrheits- und Verh\u00e4ltniswahlrecht."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 131,
+    "question": "121",
+    "choices": [
+      "Eine Partei m\u00f6chte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an",
+      "W\u00e4hlerstimmen haben. Das hei\u00dft \u2026",
+      "5%-H\u00fcrde.",
+      "Zulassungsgrenze."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "question": "122",
+    "choices": [
+      "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind \u2026",
+      "frei, gleich, geheim.",
+      "offen, sicher, frei.",
+      "geschlossen, gleich, sicher."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 133,
+    "question": "123",
+    "choices": [
+      "Was ist in Deutschland die \"5%-H\u00fcrde\"?",
+      "Abstimmungsregelung im Bundestag f\u00fcr kleine Parteien",
+      "Anwesenheitskontrolle im Bundestag f\u00fcr Abstimmungen",
+      "Mindestanteil an W\u00e4hlerstimmen, um ins Parlament zu kommen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "question": "124",
+    "choices": [
+      "Die Bundestagswahl in Deutschland ist die Wahl \u2026",
+      "der Bundeskanzlerin/des Bundeskanzlers.",
+      "der Parlamente der L\u00e4nder.",
+      "des Parlaments f\u00fcr Deutschland."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 135,
+    "question": "125",
+    "choices": [
+      "In einer Demokratie ist eine Funktion von regelm\u00e4\u00dfigen Wahlen, \u2026",
+      "die B\u00fcrgerinnen und B\u00fcrger zu zwingen, ihre Stimme abzugeben.",
+      "nach dem Willen der W\u00e4hlermehrheit den Wechsel der Regierung zu",
+      "erm\u00f6glichen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "question": "126",
+    "choices": [
+      "Was bekommen wahlberechtigte B\u00fcrgerinnen und B\u00fcrger in Deutschland vor einer Wahl?",
+      "eine Wahlbenachrichtigung von der Gemeinde",
+      "eine Wahlerlaubnis von der Bundespr\u00e4sidentin/von dem Bundespr\u00e4sidenten",
+      "eine Benachrichtigung von der Bundesversammlung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 137,
+    "question": "127",
+    "choices": [
+      "Warum gibt es die 5%-H\u00fcrde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie,",
+      "weil \u2026",
+      "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+      "die B\u00fcrgerinnen und B\u00fcrger bei vielen kleinen Parteien die Orientierung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 138,
+    "question": "128",
+    "choices": [
+      "Parlamentsmitglieder, die von den B\u00fcrgerinnen und B\u00fcrgern gew\u00e4hlt werden, nennt man \u2026",
+      "Abgeordnete.",
+      "Kanzlerinnen/Kanzler.",
+      "Botschafterinnen/Botschafter."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "question": "129",
+    "choices": [
+      "Vom Volk gew\u00e4hlt wird in Deutschland \u2026",
+      "die Bundeskanzlerin/der Bundeskanzler.",
+      "die Ministerpr\u00e4sidentin/der Ministerpr\u00e4sident eines Bundeslandes.",
+      "der Bundestag."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 140,
+    "question": "130",
+    "choices": [
+      "Welcher Stimmzettel w\u00e4re bei einer Bundestagswahl g\u00fcltig?",
+      "In Anlehnung an Bundeswahlordnung (BWO), Anlage 26",
+      "1",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "question": "131",
+    "choices": [
+      "In Deutschland ist eine B\u00fcrgermeisterin/ein B\u00fcrgermeister \u2026",
+      "die Leiterin/der Leiter einer Schule.",
+      "die Chefin/der Chef einer Bank.",
+      "das Oberhaupt einer Gemeinde."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 142,
+    "question": "132",
+    "choices": [
+      "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+      "Sie arbeiten als Soldatinnen/Soldaten.",
+      "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verb\u00e4nden.",
+      "Sie arbeiten in der Bundesregierung."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 143,
+    "question": "133",
+    "choices": [
+      "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+      "Der Ehemann w\u00e4hlt f\u00fcr seine Frau mit.",
+      "Man kann durch Briefwahl seine Stimme abgeben.",
+      "Man kann am Wahltag telefonisch seine Stimme abgeben."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "question": "134",
+    "choices": [
+      "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was k\u00f6nnen Sie",
+      "machen, um die Buslinie zu erhalten?",
+      "Ich beteilige mich an einer B\u00fcrgerinitiative f\u00fcr die Erhaltung der Buslinie oder",
+      "gr\u00fcnde selber eine Initiative."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 145,
+    "question": "135",
+    "choices": [
+      "Wen vertreten die Gewerkschaften in Deutschland?",
+      "gro\u00dfe Unternehmen",
+      "kleine Unternehmen",
+      "Selbstst\u00e4ndige"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 146,
+    "question": "136",
+    "choices": [
+      "Sie gehen in Deutschland zum Arbeitsgericht bei \u2026",
+      "falscher Nebenkostenabrechnung.",
+      "ungerechtfertigter K\u00fcndigung durch Ihre Chefin/Ihren Chef.",
+      "Problemen mit den Nachbarinnen/Nachbarn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 147,
+    "question": "137",
+    "choices": [
+      "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zust\u00e4ndig?",
+      "das Familiengericht",
+      "das Strafgericht",
+      "das Arbeitsgericht"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "question": "138",
+    "choices": [
+      "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu",
+      "Unrecht gek\u00fcndigt hat?",
+      "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+      "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber f\u00fchren"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 149,
+    "question": "139",
+    "choices": [
+      "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand \u2026",
+      "zu einer anderen Religion \u00fcbertritt.",
+      "eine Straftat begangen hat und angeklagt wird.",
+      "eine andere Meinung als die der Regierung vertritt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 150,
+    "question": "140",
+    "choices": [
+      "Was macht eine Sch\u00f6ffin/ein Sch\u00f6ffe in Deutschland? Sie/Er \u2026",
+      "entscheidet mit Richterinnen/Richtern \u00fcber Schuld und Strafe.",
+      "gibt B\u00fcrgerinnen/B\u00fcrgern rechtlichen Rat.",
+      "stellt Urkunden aus."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 151,
+    "question": "141",
+    "choices": [
+      "Wer ber\u00e4t in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+      "eine Rechtsanw\u00e4ltin/ein Rechtsanwalt",
+      "eine Richterin/ein Richter",
+      "eine Sch\u00f6ffin/ein Sch\u00f6ffe"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 152,
+    "question": "142",
+    "choices": [
+      "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein",
+      "Richter \u2026",
+      "vertritt B\u00fcrgerinnen und B\u00fcrger vor einem Gericht.",
+      "arbeitet an einem Gericht und spricht Urteile."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 153,
+    "question": "143",
+    "choices": [
+      "Eine Richterin/ein Richter in Deutschland geh\u00f6rt zur \u2026",
+      "Judikative.",
+      "Exekutive.",
+      "Operative."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 154,
+    "question": "144",
+    "choices": [
+      "Eine Richterin/ein Richter geh\u00f6rt in Deutschland zur \u2026",
+      "vollziehenden Gewalt.",
+      "rechtsprechenden Gewalt.",
+      "planenden Gewalt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 155,
+    "question": "145",
+    "choices": [
+      "In Deutschland wird die Staatsgewalt geteilt. F\u00fcr welche Staatsgewalt arbeitet eine",
+      "Richterin/ein Richter? F\u00fcr die \u2026",
+      "Judikative",
+      "Exekutive"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 156,
+    "question": "146",
+    "choices": [
+      "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+      "Programm",
+      "Prozedur",
+      "Protokoll"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 157,
+    "question": "147",
+    "choices": [
+      "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+      "Deutschland regieren",
+      "Recht sprechen",
+      "Pl\u00e4ne erstellen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 160,
+    "question": "149",
+    "choices": [
+      "Was ist ein Beispiel f\u00fcr antisemitisches Verhalten?",
+      "ein j\u00fcdisches Fest besuchen",
+      "die israelische Regierung kritisieren",
+      "den Holocaust leugnen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 161,
+    "question": "150",
+    "choices": [
+      "Eine Gerichtssch\u00f6ffin/ein Gerichtssch\u00f6ffe in Deutschland ist \u2026",
+      "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+      "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+      "ein Mitglied eines Gemeinderats."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 162,
+    "question": "151",
+    "choices": [
+      "Wer baute die Mauer in Berlin?",
+      "Gro\u00dfbritannien",
+      "die DDR",
+      "die Bundesrepublik Deutschland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "question": "152",
+    "choices": [
+      "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+      "1918 bis 1923",
+      "1932 bis 1950",
+      "1933 bis 1945"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 164,
+    "question": "153",
+    "choices": [
+      "Was war am 8. Mai 1945?",
+      "Tod Adolf Hitlers",
+      "Beginn des Berliner Mauerbaus",
+      "Wahl von Konrad Adenauer zum Bundeskanzler"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "question": "154",
+    "choices": [
+      "Wann war der Zweite Weltkrieg zu Ende?",
+      "1933",
+      "1945",
+      "1949"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 166,
+    "question": "155",
+    "choices": [
+      "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+      "1888 bis 1918",
+      "1921 bis 1934",
+      "1933 bis 1945"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 167,
+    "question": "156",
+    "choices": [
+      "In welchem Jahr wurde Hitler Reichskanzler?",
+      "1923",
+      "1927",
+      "1933"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "question": "157",
+    "choices": [
+      "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland \u2026",
+      "eine Diktatur.",
+      "einen demokratischen Staat.",
+      "eine Monarchie."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 169,
+    "question": "158",
+    "choices": [
+      "Das \"Dritte Reich\" war eine \u2026",
+      "Diktatur.",
+      "Demokratie.",
+      "Monarchie."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 170,
+    "question": "159",
+    "choices": [
+      "Was gab es in Deutschland nicht w\u00e4hrend der Zeit des Nationalsozialismus?",
+      "freie Wahlen",
+      "Pressezensur",
+      "willk\u00fcrliche Verhaftungen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 171,
+    "question": "160",
+    "choices": [
+      "Welcher Krieg dauerte von 1939 bis 1945?",
+      "der Erste Weltkrieg",
+      "der Zweite Weltkrieg",
+      "der Vietnamkrieg"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 172,
+    "question": "161",
+    "choices": [
+      "Was kennzeichnete den NS-Staat? Eine Politik \u2026",
+      "des staatlichen Rassismus",
+      "der Meinungsfreiheit",
+      "der allgemeinen Religionsfreiheit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 173,
+    "question": "162",
+    "choices": [
+      "Claus Schenk Graf von Stauffenberg wurde bekannt durch \u2026",
+      "eine Goldmedaille bei den Olympischen Spielen 1936.",
+      "den Bau des Reichstagsgeb\u00e4udes.",
+      "den Aufbau der Wehrmacht."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 174,
+    "question": "163",
+    "choices": [
+      "In welchem Jahr zerst\u00f6rten die Nationalsozialisten Synagogen und j\u00fcdische Gesch\u00e4fte in",
+      "Deutschland?",
+      "1925",
+      "1930"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 175,
+    "question": "164",
+    "choices": [
+      "Was passierte am 9. November 1938 in Deutschland?",
+      "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+      "Die Nationalsozialisten verlieren eine Wahl und l\u00f6sen den Reichstag auf.",
+      "J\u00fcdische Gesch\u00e4fte und Synagogen werden durch Nationalsozialisten und ihre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 176,
+    "question": "165",
+    "choices": [
+      "Wie hie\u00df der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 177,
+    "question": "166",
+    "choices": [
+      "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+      "beim Arbeiteraufstand 1953 in der DDR",
+      "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+      "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 178,
+    "question": "167",
+    "choices": [
+      "Welche L\u00e4nder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte",
+      "Besatzungsm\u00e4chte\" bezeichnet?",
+      "Sowjetunion, Gro\u00dfbritannien, Polen, Schweden",
+      "Frankreich, Sowjetunion, Italien, Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 179,
+    "question": "168",
+    "choices": [
+      "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+      "USA",
+      "Sowjetunion",
+      "Frankreich"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 180,
+    "question": "169",
+    "choices": [
+      "Wann wurde die Bundesrepublik Deutschland gegr\u00fcndet?",
+      "1939",
+      "1945",
+      "1949"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 181,
+    "question": "170",
+    "choices": [
+      "Was gab es w\u00e4hrend der Zeit des Nationalsozialismus in Deutschland?",
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Pers\u00f6nlichkeit",
+      "Pressefreiheit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 182,
+    "question": "171",
+    "choices": [
+      "Soziale Marktwirtschaft bedeutet, die Wirtschaft \u2026",
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht",
+      "ber\u00fccksichtigt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 183,
+    "question": "172",
+    "choices": [
+      "In welcher Besatzungszone wurde die DDR gegr\u00fcndet? In der \u2026",
+      "amerikanischen Besatzungszone",
+      "franz\u00f6sischen Besatzungszone",
+      "britischen Besatzungszone"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 184,
+    "question": "173",
+    "choices": [
+      "Die Bundesrepublik Deutschland ist ein Gr\u00fcndungsmitglied \u2026",
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europ\u00e4ischen Union (EU)."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 185,
+    "question": "174",
+    "choices": [
+      "Wann wurde die DDR gegr\u00fcndet?",
+      "1947",
+      "1949",
+      "1953"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 186,
+    "question": "175",
+    "choices": [
+      "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 187,
+    "question": "176",
+    "choices": [
+      "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+      "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+      "1=Sowjetunion, 2=Gro\u00dfbritannien, 3=USA, 4=Frankreich",
+      "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 188,
+    "question": "177",
+    "choices": [
+      "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+      "M\u00fcnchen",
+      "Berlin",
+      "Dresden"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 189,
+    "question": "178",
+    "choices": [
+      "Vom Juni 1948 bis zum Mai 1949 wurden die B\u00fcrgerinnen und B\u00fcrger von West-Berlin durch",
+      "eine Luftbr\u00fccke versorgt. Welcher Umstand war daf\u00fcr verantwortlich?",
+      "F\u00fcr Frankreich war eine Versorgung der West-Berliner Bev\u00f6lkerung mit dem",
+      "Flugzeug kosteng\u00fcnstiger."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 190,
+    "question": "179",
+    "choices": [
+      "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem R\u00fcckzug der Deutschen aus den besetzten Gebieten"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "question": "180",
+    "choices": [
+      "Der erste Bundeskanzler der Bundesrepublik Deutschland war \u2026",
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 192,
+    "question": "181",
+    "choices": [
+      "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen j\u00fcdischen Ghetto in",
+      "Warschau ausdr\u00fccken?",
+      "\u00a9 Bundesregierung/Engelbert Reineke",
+      "Er hat sich den ehemaligen Alliierten unterworfen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 193,
+    "question": "182",
+    "choices": [
+      "Wie hei\u00dft das j\u00fcdische Gebetshaus?",
+      "Basilika",
+      "Moschee",
+      "Synagoge"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 194,
+    "question": "183",
+    "choices": [
+      "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 195,
+    "question": "184",
+    "choices": [
+      "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegr\u00fcndet?",
+      "eine Resolution der Vereinten Nationen",
+      "ein Beschluss des Zionistenkongresses",
+      "ein Vorschlag der Bundesregierung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 196,
+    "question": "185",
+    "choices": [
+      "Wof\u00fcr stand der Ausdruck \"Eiserner Vorhang\"? F\u00fcr die Abschottung \u2026",
+      "des Warschauer Pakts gegen den Westen",
+      "Norddeutschlands gegen S\u00fcddeutschland",
+      "Nazi-Deutschlands gegen die Alliierten"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 197,
+    "question": "186",
+    "choices": [
+      "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik",
+      "Deutschland ein Feiertag erinnerte. Wann war das?",
+      "1. Mai",
+      "17. Juni"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 198,
+    "question": "187",
+    "choices": [
+      "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und",
+      "\u00c4hrenkranz?",
+      "Preu\u00dfen",
+      "Bundesrepublik Deutschland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 199,
+    "question": "188",
+    "choices": [
+      "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+      "1953",
+      "1956",
+      "1959"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 200,
+    "question": "189",
+    "choices": [
+      "Wann baute die DDR die Mauer in Berlin?",
+      "1919",
+      "1933",
+      "1961"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 201,
+    "question": "190",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung DDR?",
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 202,
+    "question": "191",
+    "choices": [
+      "Wann wurde die Mauer in Berlin f\u00fcr alle ge\u00f6ffnet?",
+      "1987",
+      "1989",
+      "1992"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 203,
+    "question": "192",
+    "choices": [
+      "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+      "Brandenburg",
+      "Bayern",
+      "Saarland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 204,
+    "question": "193",
+    "choices": [
+      "Von 1961 bis 1989 war Berlin \u2026",
+      "ohne B\u00fcrgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 205,
+    "question": "194",
+    "choices": [
+      "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen \u2026",
+      "Einheit.",
+      "Nation.",
+      "Bundesl\u00e4nder."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 206,
+    "question": "195",
+    "choices": [
+      "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 207,
+    "question": "196",
+    "choices": [
+      "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit",
+      "ver\u00e4nderte sich die DDR politisch \u2026",
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 208,
+    "question": "197",
+    "choices": [
+      "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+      "Th\u00fcringen",
+      "Hessen",
+      "Bayern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 209,
+    "question": "198",
+    "choices": [
+      "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 210,
+    "question": "199",
+    "choices": [
+      "Mit der Abk\u00fcrzung \"Stasi\" meinte man in der DDR \u2026",
+      "das Parlament.",
+      "das Ministerium f\u00fcr Staatssicherheit.",
+      "eine regierende Partei."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 211,
+    "question": "200",
+    "choices": [
+      "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 212,
+    "question": "201",
+    "choices": [
+      "Welche der folgenden Auflistungen enth\u00e4lt nur Bundesl\u00e4nder, die zum Gebiet der fr\u00fcheren",
+      "DDR geh\u00f6rten?",
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein,",
+      "Brandenburg"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 213,
+    "question": "202",
+    "choices": [
+      "Zu wem geh\u00f6rte die DDR im \"Kalten Krieg\"?",
+      "zu den Westm\u00e4chten",
+      "zum Warschauer Pakt",
+      "zur NATO"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 214,
+    "question": "203",
+    "choices": [
+      "Wie hie\u00df das Wirtschaftssystem der DDR?",
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 215,
+    "question": "204",
+    "choices": [
+      "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen f\u00fcnf \u00f6stlichen Bundesl\u00e4nder sind der Bundesrepublik",
+      "Deutschland beigetreten."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 216,
+    "question": "205",
+    "choices": [
+      "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland geh\u00f6ren die neuen Bundesl\u00e4nder",
+      "nun auch \u2026",
+      "zur Europ\u00e4ischen Union.",
+      "zum Warschauer Pakt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 217,
+    "question": "206",
+    "choices": [
+      "Woran erinnern die sogenannten \u201eStolpersteine\u201c in Deutschland?",
+      "an ber\u00fchmte deutsche Politikerinnen und Politiker",
+      "an die Opfer des Nationalsozialismus",
+      "an Verkehrstote"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 218,
+    "question": "207",
+    "choices": [
+      "In welchem Milit\u00e4rb\u00fcndnis war die DDR Mitglied?",
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 219,
+    "question": "208",
+    "choices": [
+      "Was war die \"Stasi\"?",
+      "der Geheimdienst im \"Dritten Reich\"",
+      "eine ber\u00fchmte deutsche Gedenkst\u00e4tte",
+      "der Geheimdienst der DDR"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 220,
+    "question": "209",
+    "choices": [
+      "Welches war das Wappen der Deutschen Demokratischen Republik?",
+      "Bild 1 Bild 2 Bild 3 Bild 4",
+      "Bild 1",
+      "Bild 2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 221,
+    "question": "210",
+    "choices": [
+      "Was ereignete sich am 17. Juni 1953 in der DDR?",
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 222,
+    "question": "211",
+    "choices": [
+      "Welcher Politiker steht f\u00fcr die \"Ostvertr\u00e4ge\"?",
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 223,
+    "question": "212",
+    "choices": [
+      "Wie hei\u00dft Deutschland mit vollem Namen?",
+      "Bundesstaat Deutschland",
+      "Bundesl\u00e4nder Deutschland",
+      "Bundesrepublik Deutschland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 224,
+    "question": "213",
+    "choices": [
+      "Wie viele Einwohner hat Deutschland?",
+      "70 Millionen",
+      "78 Millionen",
+      "84 Millionen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 225,
+    "question": "214",
+    "choices": [
+      "Welche Farben hat die deutsche Flagge?",
+      "schwarz-rot-gold",
+      "rot-wei\u00df-schwarz",
+      "schwarz-rot-gr\u00fcn"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 226,
+    "question": "215",
+    "choices": [
+      "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+      "Gerhard Schr\u00f6der",
+      "Helmut Kohl",
+      "Konrad Adenauer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 227,
+    "question": "216",
+    "choices": [
+      "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+      "\u00a9 Deutscher Bundestag/Janine Schmitz",
+      "der Bundesadler",
+      "die Fahne der Stadt Berlin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 228,
+    "question": "217",
+    "choices": [
+      "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 229,
+    "question": "218",
+    "choices": [
+      "Wie viele Bundesl\u00e4nder kamen bei der Wiedervereinigung 1990 zur Bundesrepublik",
+      "Deutschland hinzu?",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 230,
+    "question": "219",
+    "choices": [
+      "Die Bundesrepublik Deutschland hat die Grenzen von heute seit \u2026",
+      "1933",
+      "1949",
+      "1971"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 231,
+    "question": "220",
+    "choices": [
+      "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 232,
+    "question": "221",
+    "choices": [
+      "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+      "Deutsche k\u00f6nnen in viele L\u00e4nder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen k\u00f6nnen ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche k\u00f6nnen ohne Passkontrolle in jedes Land reisen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 233,
+    "question": "222",
+    "choices": [
+      "Welches Land ist ein Nachbarland von Deutschland?",
+      "Ungarn",
+      "Portugal",
+      "Spanien"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 234,
+    "question": "223",
+    "choices": [
+      "Welches Land ist ein Nachbarland von Deutschland?",
+      "Rum\u00e4nien",
+      "Bulgarien",
+      "Polen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 235,
+    "question": "224",
+    "choices": [
+      "Was bedeutet die Abk\u00fcrzung EU?",
+      "Europ\u00e4ische Unternehmen",
+      "Europ\u00e4ische Union",
+      "Einheitliche Union"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 236,
+    "question": "225",
+    "choices": [
+      "In welchem anderen Land gibt es eine gro\u00dfe deutschsprachige Bev\u00f6lkerung?",
+      "Tschechien",
+      "Norwegen",
+      "Spanien"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 237,
+    "question": "226",
+    "choices": [
+      "Welche ist die Flagge der Europ\u00e4ischen Union?",
+      "Bild 1 Bild 2 Bild 3 Bild 4",
+      "Bild 1",
+      "Bild 2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 238,
+    "question": "227",
+    "choices": [
+      "Welches Land ist ein Nachbarland von Deutschland?",
+      "Finnland",
+      "D\u00e4nemark",
+      "Norwegen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 239,
+    "question": "228",
+    "choices": [
+      "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein",
+      "genannt?",
+      "NATO-Osterweiterung",
+      "EU-Osterweiterung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 240,
+    "question": "229",
+    "choices": [
+      "Welches Land ist ein Nachbarland von Deutschland?",
+      "Spanien",
+      "Bulgarien",
+      "Norwegen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 241,
+    "question": "230",
+    "choices": [
+      "Das Europ\u00e4ische Parlament wird regelm\u00e4\u00dfig gew\u00e4hlt, n\u00e4mlich alle \u2026",
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 242,
+    "question": "231",
+    "choices": [
+      "Was bedeutet der Begriff \"europ\u00e4ische Integration\"?",
+      "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa",
+      "gemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 243,
+    "question": "232",
+    "choices": [
+      "Wer wird bei der Europawahl gew\u00e4hlt?",
+      "die Europ\u00e4ische Kommission",
+      "die L\u00e4nder, die in die EU eintreten d\u00fcrfen",
+      "die Abgeordneten des Europ\u00e4ischen Parlaments"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 244,
+    "question": "233",
+    "choices": [
+      "Welches Land ist ein Nachbarland von Deutschland?",
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 245,
+    "question": "234",
+    "choices": [
+      "Wo ist der Sitz des Europ\u00e4ischen Parlaments?",
+      "London",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 246,
+    "question": "235",
+    "choices": [
+      "Der damalige franz\u00f6sische Staatspr\u00e4sident Fran\u00e7ois Mitterrand und der damalige deutsche",
+      "Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege.",
+      "Welches Ziel der Europ\u00e4ischen Union wird bei diesem Treffen deutlich?",
+      "\u00a9 Bundesregierung/Richard Schulze-Vorberg"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 247,
+    "question": "236",
+    "choices": [
+      "Wie viele Mitgliedstaaten hat die EU heute?",
+      "21",
+      "23",
+      "25"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 248,
+    "question": "237",
+    "choices": [
+      "2007 wurde das 50-j\u00e4hrige Jubil\u00e4um der \"R\u00f6mischen Vertr\u00e4ge\" gefeiert. Was war der Inhalt",
+      "der Vertr\u00e4ge?",
+      "Beitritt Deutschlands zur NATO",
+      "Gr\u00fcndung der Europ\u00e4ischen Wirtschaftsgemeinschaft (EWG)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 249,
+    "question": "238",
+    "choices": [
+      "An welchen Orten arbeitet das Europ\u00e4ische Parlament?",
+      "Paris, London und Den Haag",
+      "Stra\u00dfburg, Luxemburg und Br\u00fcssel",
+      "Rom, Bern und Wien"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 250,
+    "question": "239",
+    "choices": [
+      "Durch welche Vertr\u00e4ge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur",
+      "Europ\u00e4ischen Wirtschaftsgemeinschaft zusammen?",
+      "durch die \"Hamburger Vertr\u00e4ge\"",
+      "durch die \"R\u00f6mischen Vertr\u00e4ge\""
+    ],
+    "answer": 0
+  },
+  {
+    "id": 251,
+    "question": "240",
+    "choices": [
+      "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+      "1995",
+      "1998",
+      "2002"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 252,
+    "question": "241",
+    "choices": [
+      "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 253,
+    "question": "242",
+    "choices": [
+      "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+      "der Staat",
+      "die Bundesl\u00e4nder",
+      "die Eltern/die Erziehungsberechtigten"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 254,
+    "question": "243",
+    "choices": [
+      "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf",
+      "der Stra\u00dfe abhalten. Was m\u00fcssen sie vorher tun?",
+      "Sie m\u00fcssen die Demonstration anmelden.",
+      "Sie m\u00fcssen nichts tun. Man darf in Deutschland jederzeit \u00fcberall"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 255,
+    "question": "244",
+    "choices": [
+      "Welchen Schulabschluss braucht man normalerweise, um an einer Universit\u00e4t in",
+      "Deutschland ein Studium zu beginnen?",
+      "das Abitur",
+      "ein Diplom"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 256,
+    "question": "245",
+    "choices": [
+      "Wer darf in Deutschland nicht als Paar zusammenleben?",
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 257,
+    "question": "246",
+    "choices": [
+      "Ab welchem Alter ist man in Deutschland vollj\u00e4hrig?",
+      "16",
+      "18",
+      "19"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 258,
+    "question": "247",
+    "choices": [
+      "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz",
+      "besonders besch\u00fctzt. Wie hei\u00dft dieser Schutz?",
+      "Elternzeit",
+      "Mutterschutz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 261,
+    "question": "249",
+    "choices": [
+      "Wer ist in Deutschland haupts\u00e4chlich verantwortlich f\u00fcr die Kindererziehung?",
+      "der Staat",
+      "die Eltern",
+      "die Verwandten"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 262,
+    "question": "250",
+    "choices": [
+      "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man",
+      "\u2026",
+      "katholisch ist.",
+      "gut ausgebildet ist."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 263,
+    "question": "251",
+    "choices": [
+      "Wenn man in Deutschland ein Kind schl\u00e4gt, \u2026",
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man daf\u00fcr nicht bestraft werden."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 264,
+    "question": "252",
+    "choices": [
+      "In Deutschland \u2026",
+      "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet",
+      "sein.",
+      "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 265,
+    "question": "253",
+    "choices": [
+      "Wo m\u00fcssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 266,
+    "question": "254",
+    "choices": [
+      "In Deutschland d\u00fcrfen Ehepaare sich scheiden lassen. Meistens m\u00fcssen sie dazu das",
+      "\"Trennungsjahr\" einhalten. Was bedeutet das?",
+      "Der Scheidungsprozess dauert ein Jahr.",
+      "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung m\u00f6glich."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 267,
+    "question": "255",
+    "choices": [
+      "Bei Erziehungsproblemen k\u00f6nnen Eltern in Deutschland Hilfe erhalten vom \u2026",
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 268,
+    "question": "256",
+    "choices": [
+      "Ein Ehepaar m\u00f6chte in Deutschland ein Restaurant er\u00f6ffnen. Was braucht es dazu",
+      "unbedingt?",
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 269,
+    "question": "257",
+    "choices": [
+      "Eine erwachsene Frau m\u00f6chte in Deutschland das Abitur nachholen. Das kann sie an \u2026",
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 270,
+    "question": "258",
+    "choices": [
+      "Was darf das Jugendamt in Deutschland?",
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie",
+      "nehmen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 271,
+    "question": "259",
+    "choices": [
+      "Das Berufsinformationszentrum BIZ bei der Bundesagentur f\u00fcr Arbeit in Deutschland hilft",
+      "bei der \u2026",
+      "Rentenberechnung.",
+      "Lehrstellensuche."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 272,
+    "question": "260",
+    "choices": [
+      "In Deutschland hat ein Kind in der Schule \u2026",
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit f\u00fcr alle F\u00e4cher.",
+      "Anspruch auf Schulgeld."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 273,
+    "question": "261",
+    "choices": [
+      "Ein Mann m\u00f6chte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun?",
+      "An \u2026",
+      "einer Hochschule.",
+      "einem Abendgymnasium."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 274,
+    "question": "262",
+    "choices": [
+      "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende pers\u00f6nliche",
+      "Gr\u00fcnde hierf\u00fcr vorliegen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 275,
+    "question": "263",
+    "choices": [
+      "In Deutschland sind Jugendliche ab 14 Jahren strafm\u00fcndig. Das bedeutet: Jugendliche, die",
+      "14 Jahre und \u00e4lter sind und gegen Strafgesetze versto\u00dfen, \u2026",
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 276,
+    "question": "264",
+    "choices": [
+      "Zu welchem Fest tragen Menschen in Deutschland bunte Kost\u00fcme und Masken?",
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 277,
+    "question": "265",
+    "choices": [
+      "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten m\u00f6chte?",
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur f\u00fcr Arbeit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 278,
+    "question": "266",
+    "choices": [
+      "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 279,
+    "question": "267",
+    "choices": [
+      "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern",
+      "der Frau finden das nicht gut, weil ihnen der Freund nicht gef\u00e4llt. Was k\u00f6nnen die Eltern",
+      "tun?",
+      "Sie m\u00fcssen die Entscheidung der vollj\u00e4hrigen Tochter respektieren."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 280,
+    "question": "268",
+    "choices": [
+      "Eine junge Frau will den F\u00fchrerschein machen. Sie hat Angst vor der Pr\u00fcfung, weil ihre",
+      "Muttersprache nicht Deutsch ist. Was ist richtig?",
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den",
+      "F\u00fchrerschein machen kann."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 281,
+    "question": "269",
+    "choices": [
+      "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen",
+      "Anspruch auf \u2026",
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 282,
+    "question": "270",
+    "choices": [
+      "Die Volkshochschule in Deutschland ist eine Einrichtung \u2026",
+      "f\u00fcr den Religionsunterricht.",
+      "nur f\u00fcr Jugendliche.",
+      "zur Weiterbildung."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 283,
+    "question": "271",
+    "choices": [
+      "Was ist in Deutschland ein Brauch zu Weihnachten?",
+      "bunte Eier verstecken",
+      "einen Tannenbaum schm\u00fccken",
+      "sich mit Masken und Kost\u00fcmen verkleiden"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 284,
+    "question": "272",
+    "choices": [
+      "Welche Lebensform ist in Deutschland nicht erlaubt?",
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 285,
+    "question": "273",
+    "choices": [
+      "Bei Erziehungsproblemen gehen Sie in Deutschland \u2026",
+      "zur \u00c4rztin/zum Arzt.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 286,
+    "question": "274",
+    "choices": [
+      "Sie haben in Deutschland absichtlich einen Brief ge\u00f6ffnet, der an eine andere Person",
+      "adressiert ist. Was haben Sie nicht beachtet?",
+      "das Schweigerecht",
+      "das Briefgeheimnis"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 287,
+    "question": "275",
+    "choices": [
+      "Was braucht man in Deutschland f\u00fcr eine Ehescheidung?",
+      "die Einwilligung der Eltern",
+      "ein Attest einer \u00c4rztin/eines Arztes",
+      "die Einwilligung der Kinder"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 288,
+    "question": "276",
+    "choices": [
+      "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer",
+      "deutschen Beh\u00f6rde schlecht behandelt werden?",
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 289,
+    "question": "277",
+    "choices": [
+      "Eine Frau, die ein zweij\u00e4hriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist",
+      "ein Beispiel f\u00fcr Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie \u2026",
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 290,
+    "question": "278",
+    "choices": [
+      "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel",
+      "f\u00fcr Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er \u2026",
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 291,
+    "question": "279",
+    "choices": [
+      "In den meisten Mietsh\u00e4usern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer",
+      "solchen \"Hausordnung\"? Sie nennt \u2026",
+      "Regeln f\u00fcr die Benutzung \u00f6ffentlicher Verkehrsmittel.",
+      "alle Mieterinnen und Mieter im Haus."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 292,
+    "question": "280",
+    "choices": [
+      "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, m\u00fcssen",
+      "Sie \u2026",
+      "nichts machen.",
+      "den Bescheid wegwerfen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 293,
+    "question": "281",
+    "choices": [
+      "Zwei Freunde wollen in ein \u00f6ffentliches Schwimmbad in Deutschland. Beide haben eine",
+      "dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser",
+      "Situation verletzt? Das Recht auf \u2026",
+      "Meinungsfreiheit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 294,
+    "question": "282",
+    "choices": [
+      "Welches Ehrenamt m\u00fcssen deutsche Staatsb\u00fcrgerinnen und Staatsb\u00fcrger \u00fcbernehmen,",
+      "wenn sie dazu aufgefordert werden?",
+      "Vereinstrainerin/Vereinstrainer",
+      "Wahlhelferin/Wahlhelfer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 295,
+    "question": "283",
+    "choices": [
+      "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Beh\u00f6rde bekommen?",
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Beh\u00f6rde ein.",
+      "Ich schicke die Rechnung an die Beh\u00f6rde zur\u00fcck."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 296,
+    "question": "284",
+    "choices": [
+      "Was man f\u00fcr die Arbeit k\u00f6nnen muss, \u00e4ndert sich in Zukunft sehr schnell. Was kann man",
+      "tun?",
+      "Es ist egal, was man lernt.",
+      "Erwachsene m\u00fcssen auch nach der Ausbildung immer weiter lernen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 297,
+    "question": "285",
+    "choices": [
+      "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem B\u00fcro. Was muss sie nicht von",
+      "ihrem Gehalt bezahlen?",
+      "Lohnsteuer",
+      "Beitr\u00e4ge zur Arbeitslosenversicherung"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 298,
+    "question": "286",
+    "choices": [
+      "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei",
+      "Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+      "der Betriebsrat",
+      "die Betriebspr\u00fcferin/der Betriebspr\u00fcfer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 299,
+    "question": "287",
+    "choices": [
+      "Sie m\u00f6chten bei einer Firma in Deutschland ihr Arbeitsverh\u00e4ltnis beenden. Was m\u00fcssen Sie",
+      "beachten?",
+      "die Gehaltszahlungen",
+      "die Arbeitszeit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 300,
+    "question": "288",
+    "choices": [
+      "Woraus begr\u00fcndet sich Deutschlands besondere Verantwortung f\u00fcr Israel?",
+      "aus der Mitgliedschaft in der Europ\u00e4ischen Union (EU)",
+      "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "aus dem Grundgesetz der Bundesrepublik Deutschland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 301,
+    "question": "289",
+    "choices": [
+      "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant",
+      "in Deutschland. Was ist ein Beispiel f\u00fcr Diskriminierung? Er bekommt die Stelle nur deshalb",
+      "nicht, weil \u2026",
+      "seine Deutschkenntnisse zu gering sind."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 302,
+    "question": "290",
+    "choices": [
+      "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus,",
+      "doch er funktioniert nicht. Der Fernseher ist kaputt. Was k\u00f6nnen Sie machen?",
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 303,
+    "question": "291",
+    "choices": [
+      "Warum muss man in Deutschland bei der Steuererkl\u00e4rung aufschreiben, ob man zu einer",
+      "Kirche geh\u00f6rt oder nicht? Weil \u2026",
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer gekn\u00fcpft",
+      "ist."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 304,
+    "question": "292",
+    "choices": [
+      "Die Menschen in Deutschland leben nach dem Grundsatz der religi\u00f6sen Toleranz. Was",
+      "bedeutet das?",
+      "Es d\u00fcrfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 305,
+    "question": "293",
+    "choices": [
+      "Was ist in Deutschland ein Brauch zu Ostern?",
+      "K\u00fcrbisse vor die T\u00fcr stellen",
+      "einen Tannenbaum schm\u00fccken",
+      "Eier bemalen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 306,
+    "question": "294",
+    "choices": [
+      "Pfingsten ist ein \u2026",
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 307,
+    "question": "295",
+    "choices": [
+      "Welche Religion hat die europ\u00e4ische und deutsche Kultur gepr\u00e4gt?",
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 308,
+    "question": "296",
+    "choices": [
+      "In Deutschland nennt man die letzten vier Wochen vor Weihnachten \u2026",
+      "den Bu\u00df- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 309,
+    "question": "297",
+    "choices": [
+      "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland",
+      "gekommen?",
+      "Italien",
+      "Polen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 310,
+    "question": "298",
+    "choices": [
+      "In der DDR lebten vor allem Migrantinnen und Migranten aus \u2026",
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rum\u00e4nien, Somalia.",
+      "Chile, Ungarn, Simbabwe."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 311,
+    "question": "299",
+    "choices": [
+      "Ausl\u00e4ndische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der",
+      "Bundesrepublik Deutschland angeworben wurden, nannte man \u2026",
+      "Schwarzarbeiterinnen/Schwarzarbeiter.",
+      "Gastarbeiterinnen/Gastarbeiter."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 312,
+    "question": "300",
+    "choices": [
+      "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter nach",
+      "Bundesrepublik Deutschland?",
+      "Italien",
+      "Spanien"
+    ],
+    "answer": 0
+  }
+]
