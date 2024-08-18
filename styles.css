@@ -13,6 +13,8 @@ body {
 	background-color: #fff;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 	border-radius: 8px;
+	width: 100%; /* Ensure container is full width */
+	box-sizing: border-box; /* Include padding and border in element's total width */
 }
 
 h1 {
@@ -28,6 +30,9 @@ h1 {
 	margin-bottom: 30px;
 	gap: 15px;
 	align-items: center;
+	flex-wrap: wrap; /* Allow controls to wrap on smaller screens */
+	width: 100%; /* Ensure controls take full width */
+	box-sizing: border-box;
 }
 
 .controls label {
@@ -43,6 +48,7 @@ h1 {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	text-align: center;
+	box-sizing: border-box; /* Include padding and border in element's total width */
 }
 
 .controls button {
@@ -54,6 +60,7 @@ h1 {
 	cursor: pointer;
 	border-radius: 4px;
 	transition: background-color 0.3s ease;
+	box-sizing: border-box;
 }
 
 .controls button:hover {
@@ -93,6 +100,7 @@ h1 {
 	text-align: left;
 	font-weight: 600;
 	color: #333;
+	box-sizing: border-box;
 }
 
 .options button:hover {
@@ -116,6 +124,9 @@ h1 {
 	align-items: center;
 	margin-top: 20px;
 	gap: 15px;
+	flex-wrap: wrap; /* Allow pagination controls to wrap on smaller screens */
+	width: 100%; /* Ensure pagination takes full width */
+	box-sizing: border-box;
 }
 
 .pagination label {
@@ -131,6 +142,7 @@ h1 {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	text-align: center;
+	box-sizing: border-box;
 }
 
 .pagination button {
@@ -142,6 +154,7 @@ h1 {
 	cursor: pointer;
 	border-radius: 4px;
 	transition: background-color 0.3s ease;
+	box-sizing: border-box;
 }
 
 .pagination button:hover {
@@ -152,5 +165,114 @@ h1 {
 	font-size: 18px;
 	font-weight: bold;
 	color: #333;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+	.container {
+		margin: 20px auto;
+		padding: 15px;
+	}
+
+	h1 {
+		font-size: 28px;
+		margin-bottom: 15px;
+	}
+
+	.controls {
+		flex-direction: column;
+		gap: 10px;
+		width: 100%; /* Ensure controls stay within container */
+	}
+
+	.controls label {
+		font-size: 16px;
+	}
+
+	.controls input {
+		width: 100%; /* Full width input fields on smaller screens */
+		font-size: 14px;
+	}
+
+	.controls button {
+		width: 100%; /* Full width buttons on smaller screens */
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	.question h3 {
+		font-size: 18px;
+	}
+
+	.options button {
+		font-size: 14px;
+		padding: 8px;
+	}
+
+	.pagination {
+		flex-direction: column;
+		gap: 10px;
+		width: 100%; /* Ensure pagination stays within container */
+	}
+
+	.pagination label {
+		font-size: 16px;
+	}
+
+	.pagination input {
+		width: 100%;
+		font-size: 14px;
+	}
+
+	.pagination button {
+		width: 100%;
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	#pageInfo {
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 480px) {
+	h1 {
+		font-size: 24px;
+	}
+
+	.container {
+		margin: 10px auto;
+		padding: 10px;
+	}
+
+	.controls label,
+	.pagination label {
+		font-size: 14px;
+	}
+
+	.controls input,
+	.pagination input {
+		font-size: 14px;
+		padding: 8px;
+	}
+
+	.controls button,
+	.pagination button {
+		padding: 8px;
+		font-size: 14px;
+	}
+
+	.question h3 {
+		font-size: 16px;
+	}
+
+	.options button {
+		font-size: 14px;
+		padding: 6px;
+	}
+
+	#pageInfo {
+		font-size: 14px;
+	}
 }
 
