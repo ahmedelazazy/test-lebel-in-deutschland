@@ -1,20 +1,30 @@
 let questions = []
 let filteredQuestions = []
+let currentPage = 1
+let pageSize = 20
+let totalPages = 1 // Track total pages globally
 
 // Load questions from JSON file
 fetch('questions.json')
 	.then(response => response.json())
 	.then(data => {
 		questions = data
-		displayQuestions(questions)
+		filteredQuestions = questions // Initialize filteredQuestions with all questions
+		displayQuestions(filteredQuestions)
 	})
 
-// Display the questions
+// Display the questions for the current page
 function displayQuestions(questionArray) {
 	const quizDiv = document.getElementById('quiz')
 	quizDiv.innerHTML = '' // Clear previous content
 
-	questionArray.forEach(question => {
+	// Calculate pagination details
+	const start = (currentPage - 1) * pageSize
+	const end = start + pageSize
+	const paginatedQuestions = questionArray.slice(start, end)
+
+	// Display questions for the current page
+	paginatedQuestions.forEach(question => {
 		const questionDiv = document.createElement('div')
 		questionDiv.classList.add('question')
 
@@ -44,7 +54,7 @@ function displayQuestions(questionArray) {
 			}
 
 			const button = document.createElement('button')
-			button.innerText = ${letter}. ${option}
+			button.innerText = `${letter}. ${option}`
 			button.onclick = () => checkAnswer(question, index, button)
 			optionsDiv.appendChild(button)
 		})
@@ -52,16 +62,27 @@ function displayQuestions(questionArray) {
 		questionDiv.appendChild(optionsDiv)
 		quizDiv.appendChild(questionDiv)
 	})
+
+	updatePaginationInfo(questionArray.length)
+}
+
+// Update the pagination info
+function updatePaginationInfo(totalQuestions) {
+	totalPages = Math.ceil(totalQuestions / pageSize) // Calculate total pages
+	const pageInfo = document.getElementById('pageInfo')
+	pageInfo.innerText = `Page ${currentPage} of ${totalPages}`
+
+	// Disable/enable pagination buttons based on the page
+	document.querySelector('button[onclick="previousPage()"]').disabled = currentPage === 1
+	document.querySelector('button[onclick="nextPage()"]').disabled = currentPage === totalPages
 }
 
 // Check the selected answer
 function checkAnswer(question, selectedOption, button) {
 	if (selectedOption === question.correctAnswer) {
 		button.style.backgroundColor = '#4caf50'
-		// alert('Correct!')
 	} else {
 		button.style.backgroundColor = '#f95959'
-		// alert('Wrong answer!')
 	}
 }
 
@@ -69,8 +90,10 @@ function checkAnswer(question, selectedOption, button) {
 function filterQuestions() {
 	const from = parseInt(document.getElementById('from').value)
 	const to = parseInt(document.getElementById('to').value)
+	pageSize = parseInt(document.getElementById('pageSize').value)
 
 	filteredQuestions = questions.filter(q => q.id >= from && q.id <= to)
+	currentPage = 1 // Reset to the first page
 	displayQuestions(filteredQuestions)
 }
 
@@ -87,5 +110,29 @@ function shuffleQuestions() {
 		;[filteredQuestions[i], filteredQuestions[j]] = [filteredQuestions[j], filteredQuestions[i]]
 	}
 
+	currentPage = 1 // Reset to the first page after shuffle
 	displayQuestions(filteredQuestions)
 }
+
+// Navigate to the previous page
+function previousPage() {
+	if (currentPage > 1) {
+		currentPage--
+		displayQuestions(filteredQuestions)
+	}
+}
+
+// Navigate to the next page
+function nextPage() {
+	if (currentPage < totalPages) {
+		currentPage++
+		displayQuestions(filteredQuestions)
+	}
+}
+
+function updatePageSize() {
+	pageSize = parseInt(document.getElementById('pageSize').value)
+	currentPage = 1 // Reset to the first page after changing page size
+	displayQuestions(filteredQuestions)
+}
+

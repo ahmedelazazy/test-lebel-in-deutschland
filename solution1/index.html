@@ -22,8 +22,18 @@
 			</div>
 
 			<div id="quiz"></div>
+
+			<div class="pagination">
+				<button onclick="previousPage()">Previous</button>
+				<span id="pageInfo"></span>
+				<button onclick="nextPage()">Next</button>
+
+				<label for="pageSize">Page Size:</label>
+				<input type="number" id="pageSize" min="1" value="10" onchange="updatePageSize()" />
+			</div>
 		</div>
 
 		<script src="script.js"></script>
 	</body>
 </html>
+
