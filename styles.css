@@ -76,10 +76,31 @@ h1 {
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+body {
+	counter-reset: question-counter;
+}
+
+.question::before {
+	content: counter(question-counter);
+	counter-increment: question-counter;
+	display: block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 3px 6px;
+	line-height: 1;
+	width: fit-content;
+	margin: 0 0 10px auto;
+	background: #eee;
+	color: #000;
+	font-size: 14px;
+	font-weight: 500;
+	font-family: monospace;
+}
+
 .question h3 {
 	margin: 0;
 	font-size: 20px;
-	color: #666;
+	color: navy;
 	margin-bottom: 15px;
 }
 
@@ -108,12 +129,12 @@ h1 {
 }
 
 .options button.correct {
-	background-color: #4caf50;
+	background-color: #66e66b;
 	color: white;
 }
 
 .options button.wrong {
-	background-color: #f44336;
+	background-color: #fea4a4;
 	color: white;
 }
 

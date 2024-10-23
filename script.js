@@ -80,9 +80,9 @@ function updatePaginationInfo(totalQuestions) {
 // Check the selected answer
 function checkAnswer(question, selectedOption, button) {
 	if (selectedOption === question.correctAnswer) {
-		button.style.backgroundColor = '#4caf50'
+		button.style.backgroundColor = '#91ee94'
 	} else {
-		button.style.backgroundColor = '#f95959'
+		button.style.backgroundColor = '#fea4a4'
 	}
 }
 
