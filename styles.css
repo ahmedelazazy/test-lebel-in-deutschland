@@ -1,3 +1,6 @@
+html {
+	scroll-behavior: smooth;
+}
 body {
 	font-family: 'Arial', sans-serif;
 	background-color: #f4f4f9;
@@ -38,7 +41,7 @@ h1 {
 .controls label {
 	font-size: 18px;
 	font-weight: bold;
-	margin-right: 10px;
+	/* margin-right: 10px; */
 }
 
 .controls input {
@@ -100,7 +103,7 @@ body {
 .question h3 {
 	margin: 0;
 	font-size: 20px;
-	color: navy;
+	color: #2424e9;
 	margin-bottom: 15px;
 }
 

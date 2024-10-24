@@ -6,7 +6,7 @@
 		<title>Test Leben in Deutschland</title>
 		<link rel="stylesheet" href="styles.css" />
 	</head>
-	<body>
+	<body id="top">
 		<div class="container">
 			<h1>Test Leben in Deutschland</h1>
 
@@ -19,6 +19,9 @@
 
 				<button onclick="filterQuestions()">Filter</button>
 				<button onclick="shuffleQuestions()">Shuffle</button>
+
+				<label for="pageSize">Page Size:</label>
+				<input type="number" id="pageSize" min="1" value="20" onchange="updatePageSize()" />
 			</div>
 
 			<div id="quiz"></div>
@@ -28,9 +31,10 @@
 				<span id="pageInfo"></span>
 				<button onclick="nextPage()">Next</button>
 
-				<label for="pageSize">Page Size:</label>
-				<input type="number" id="pageSize" min="1" value="20" onchange="updatePageSize()" />
+				<!-- <label for="pageSize">Page Size:</label>
+				<input type="number" id="pageSize" min="1" value="20" onchange="updatePageSize()" /> -->
 			</div>
+			<a href="#top" style="text-align: center; display: block; margin-top: 20px; color: #2424e9">Back to the top</a>
 		</div>
 
 		<script src="script.js"></script>
