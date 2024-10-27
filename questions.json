@@ -229,7 +229,8 @@
       "Bild 3",
       "Bild 4"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "image": "/images/q21.png"
   },
   {
     "id": 22,
@@ -603,7 +604,8 @@
       "das Bundesratsgebäude in Berlin",
       "das Bundeskanzleramt in Berlin"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "image": "/images/q55.png"
   },
   {
     "id": 56,
@@ -771,7 +773,8 @@
       "Sie/Er wählt die Ministerinnen/Minister aus.",
       "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "image": "/images/q70.png"
   },
   {
     "id": 71,
@@ -1433,7 +1436,9 @@
       "3",
       "4"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "image": "/images/q130.png"
+
   },
   {
     "id": 131,
@@ -1939,7 +1944,9 @@
       "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
       "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "image": "/images/q176.png"
+
   },
   {
     "id": 177,
@@ -1994,7 +2001,9 @@
       "Er zeigte seine Demut vor dem Warschauer Pakt.",
       "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "image": "/images/q181.png"
+
   },
   {
     "id": 182,
@@ -2060,7 +2069,9 @@
       "'Drittes Reich'",
       "DDR"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "image": "/images/q187.png"
+
   },
   {
     "id": 188,
@@ -2303,7 +2314,8 @@
       "Bild 3",
       "Bild 4"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "image": "/images/q209.png"
   },
   {
     "id": 210,
@@ -2380,7 +2392,8 @@
       "der Reichsadler",
       "die Reichskrone"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "image": "/images/q216.png"
   },
   {
     "id": 217,
@@ -2490,7 +2503,8 @@
       "Bild 3",
       "Bild 4"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1,
+    "image": "/images/q226.png"
   },
   {
     "id": 227,
@@ -2589,7 +2603,8 @@
       "Frieden und Sicherheit in den Ländern der EU",
       "einheitliche Feiertage in den Ländern der EU"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "image": "/images/q235.png"
   },
   {
     "id": 236,
@@ -2868,9 +2883,8 @@
   },
   {
     "id": 261,
-    "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun?",
+    "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An...",
     "options": [
-      "An …",
       "einer Hochschule.",
       "einem Abendgymnasium.",
       "einer Hauptschule.",
@@ -3306,5 +3320,118 @@
       "Türkei"
     ],
     "correctAnswer": 0
+  },
+
+  {
+    "id": 301,
+    "question": "Welches Wappen gehört zum Bundesland Hessen?",
+    "options": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ],
+    "correctAnswer": 0,
+    "image": "/images/q301.png"
+  },
+  {
+    "id": 302,
+    "question": "Welches ist ein Landkreis in Hessen?",
+    "options": [
+      "Ammerland",
+      "Altötting",
+      "Prignitz",
+      "Main-Taunus-Kreis"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 303,
+    "question": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 304,
+    "question": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 305,
+    "question": "Welche Farben hat die Landesflagge von Hessen?",
+    "options": [
+      "blau-weiß-rot",
+      "rot-weiß",
+      "schwarz-gold",
+      "grün-weiß-rot"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 306,
+    "question": "Wo können Sie sich in Hessen über politische Themen informieren?",
+    "options": [
+      "bei der Landeszentrale für politische Bildung",
+      "bei der Verbraucherzentrale",
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 307,
+    "question": "Die Landeshauptstadt von Hessen heißt …",
+    "options": [
+      "Kassel",
+      "Darmstadt",
+      "Frankfurt",
+      "Wiesbaden"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 308,
+    "question": "Welches Bundesland ist Hessen?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "image": "/images/q308.png"
+  },
+  {
+    "id": 309,
+    "question": "Wie nennt man die Regierungschefin/den Regierungschef in Hessen?",
+    "options": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 310,
+    "question": "Welche Ministerin/welchen Minister hat Hessen nicht?",
+    "options": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correctAnswer": 1
   }
 ]
